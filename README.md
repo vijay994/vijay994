@@ -1,8 +1,8 @@
-I'm a B.Tech Computer Science Student 
-🥅 I am proficient in Data Science
-🌱 I’m currently learning Data Structures and Algorithm
-👯 I’m looking for opportunities to upskill myself
-⚡ Hobbies: Enthusiastic about sports, gaming, and exploring captivating narratives in light novels.
+I'm a B.Tech Computer Science Student.
+🥅 I am proficient in Data Science.
+🌱 I’m currently learning Data Structures and Algorithm.
+👯 I’m looking for opportunities to upskill myself.
+
 
 
 <!---
